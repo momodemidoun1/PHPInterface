@@ -1,0 +1,18 @@
+{
+    "name": "mohamed/interface",
+    "authors": [
+        {
+            "name": "momodemidoun1",
+            "email": "momodemidoun1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Grafikart\\" : "Grafikart/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "symfony/var-dumper": "^4.2"
+    }
+}
